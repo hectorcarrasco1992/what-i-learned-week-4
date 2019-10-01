@@ -22,3 +22,7 @@
 # Return of the String
     * did an exercise where we practiced how to use return values to further cement our basic knowledge of them and how they work within a function.
 
+# _HRM_
+ Played more Human Resource Machine to help with logic thinking.
+
+![Javascript!](https://media.giphy.com/media/fuJPZBIIqzbt1kAYVc/source.gif)
